@@ -5,4 +5,6 @@ MySQL<br>
 CSS, HTML, JS from UIkit.com <br>
 <br>
 Web Backend Implemented a event-driven single-thread, multiple I/O access using Python coroutines.<br>
-Deployed on the AWS EC2 with Nginx http://54.213.192.49/ 
+Deployed on the AWS EC2 with Nginx http://54.213.192.49/
+<br>
+reference liaoxuefeng.com
